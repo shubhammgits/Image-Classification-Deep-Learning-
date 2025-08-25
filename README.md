@@ -35,26 +35,7 @@ Whether you're building an emotion-aware app, smart camera software, or experime
 
 ---
 
-## 📁 Project Structure
 
-Image-Classification-Deep-Learning/
-├── imageclassification/
-│ ├── Scripts/ # Contains training, testing, prediction scripts
-│ ├── Lib/ # Model utilities (if any)
-│ ├── share/ # (Ignored) Shared data or temp files
-│ ├── pyvenv.cfg # (Ignored) Virtual environment config
-│ ├── init.py # Package initializer (if needed)
-│
-├── models/ # Trained models (e.g. model.h5)
-├── logs/ # Training logs and metrics
-├── data/ # Dataset directory (images)
-├── .gitignore # Git ignore rules
-├── requirements.txt # Dependency list
-├── README.md # Project documentation
-└── Getting Started.ipynb # Jupyter notebook walkthrough (optional)
-
-
----
 
 ## 🧪 Model Architecture
 
