@@ -152,7 +152,7 @@ python predict.py --image path_to_image.jpg
 ## 📌 Author
 
 👤 **Shubham Kumar**  
-📧 [Your Email / Contact Here]  
+📧 shubhamm18.work@gmail.com  
 🔗 [GitHub Profile](https://github.com/shubhammgits)
 
 ---
