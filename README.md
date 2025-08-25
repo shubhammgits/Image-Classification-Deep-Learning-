@@ -53,3 +53,27 @@ Image-Classification-Deep-Learning/
 ├── README.md # Project documentation
 └── Getting Started.ipynb # Jupyter notebook walkthrough (optional)
 
+
+---
+
+## 🧪 Model Architecture
+
+The project uses a simple **CNN architecture** suitable for binary image classification tasks:
+
+- **Conv2D + ReLU** layers
+- **MaxPooling2D**
+- **Dropout** layers to prevent overfitting
+- **Flatten → Dense** layers
+- Final layer with **Sigmoid activation**
+
+*Optimized using `binary_crossentropy` and `Adam` optimizer.*
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/shubhammgits/Image-Classification-Deep-Learning-.git
+cd Image-Classification-Deep-Learning-
