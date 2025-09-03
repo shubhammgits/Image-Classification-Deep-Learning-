@@ -93,17 +93,8 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
-If `requirements.txt` is not provided, install manually:
-```bash
-pip install tensorflow keras opencv-python numpy pillow matplotlib
-```
-
-### 4. Dataset Setup
+### 3. Dataset Setup
 Organize your dataset inside the `data/` folder:
 ```
 data/
@@ -115,14 +106,14 @@ data/
     └── sad/
 ```
 
-### 5. Run Jupyter Notebook
+### 4. Run Jupyter Notebook
 ```bash
 jupyter notebook
 ```
 - Open `Getting Started.ipynb`  
 - Train and test the model on your dataset  
 
-### 6. Test on New Images
+### 5. Test on New Images
 Use the prediction script (if included):
 ```bash
 python predict.py --image path_to_image.jpg
